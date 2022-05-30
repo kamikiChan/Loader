@@ -1,1 +1,3 @@
 # Loader
+- .\1-token.exe fname
+- .\2-loadMap.exe load <address> <file 1> < file 2> ......
